@@ -1,7 +1,7 @@
 package com.ohgiraffers.jenkins.controller;
 
-import com.ohgiraffers.bootproject.dto.CalculatorDto;
-import com.ohgiraffers.bootproject.service.CalculatorService;
+import com.ohgiraffers.jenkins.dto.CalculatorDto;
+import com.ohgiraffers.jenkins.service.CalculatorService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;
